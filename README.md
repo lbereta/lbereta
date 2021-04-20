@@ -3,6 +3,7 @@
 Meu nome é Lucas Schröder Bereta, sou natural de Porto Alegre, RS 🏠. Sou graduando em Análise e Desenvolvimento de Sistemas 📚, e apaixonado por desenvolvimento Android 💚.
 
 📱 Kotlin é minha linguagem de programação preferida.
+
 📗 Estudo fortemente sobre desenvolvimento Mobile.
 
 ✔️ Aqui você vai encontrar alguns projetos pessoais que uso para me aprimorar a cada dia. Sinta-se a vontade por aqui!
