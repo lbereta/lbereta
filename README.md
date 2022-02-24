@@ -1,8 +1,8 @@
 # E aí, beleza? 👍
 
-Meu nome é Lucas Schröder Bereta, sou natural de Porto Alegre, RS 🏠. Sou graduando em Análise e Desenvolvimento de Sistemas 📚, e apaixonado por desenvolvimento 💚.
+Meu nome é Lucas Schröder Bereta, sou natural de Porto Alegre, RS 🏠. Sou graduando em Análise e Desenvolvimento de Sistemas 📚.
 
-📱 Java/Kotlin é minha linguagem de programação preferida.
+📱 Java é minha linguagem de programação preferida.
 
 📗 Estudo fortemente sobre desenvolvimento.
 
