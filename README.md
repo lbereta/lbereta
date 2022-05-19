@@ -4,7 +4,7 @@ Meu nome é Lucas Schröder Bereta, sou natural de Porto Alegre, RS 🏠. Sou gr
 
 📱 Java é minha linguagem de programação preferida.
 
-📗 Estudo fortemente sobre desenvolvimento.
+📗 Estudo fortemente sobre desenvolvimento back-end.
 
 ✔️ Aqui você vai encontrar alguns projetos pessoais que uso para me aprimorar a cada dia. Sinta-se a vontade por aqui!
 
