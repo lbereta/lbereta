@@ -16,7 +16,7 @@ Sou um profissional com experiência em DevOps, SRE e infraestrutura em nuvem. M
 - **Versionamento**: Git, GitHub
 
 ## Como me encontrar
-- **LinkedIn:** [Lucas Bereta([https://www.linkedin.com/seuperfil](https://www.linkedin.com/in/lucasbereta/))
+- **LinkedIn:** [Lucas Bereta](https://www.linkedin.com/in/lucasbereta/)
 - **Email:** lucas.bereta@hotmail.com
 
 ## Agradecimentos
