@@ -1,21 +1,23 @@
-# Bem-vindo ao meu perfil no GitHub!
+# [Lucas S. Bereta]
 
-## Sobre mim
-Olá! Sou um programador Python apaixonado por criar soluções eficientes e elegantes para problemas complexos. Estou constantemente aprendendo e explorando novas tecnologias para aprimorar minhas habilidades e contribuir para projetos interessantes.
+## Sobre Mim
 
-## Minhas habilidades
-- **Linguagens:** Python
-- **Frameworks:** Pandas, NumPy
-- **Bancos de dados:** MySQL, PostgreSQL, SQL Server
-- **Ferramentas de Desenvolvimento:** Git, Docker, VSCode
-- **Outras habilidades:** Desenvolvimento Web, Automação, Análise de Dados
+Sou um profissional com experiência em DevOps, SRE e infraestrutura em nuvem. Minha atuação está focada na automação de processos, manutenção de ambientes escaláveis e implementação de práticas de CI/CD. Tenho uma forte paixão por aprender e implementar novas tecnologias, buscando sempre soluções eficientes e seguras.
+
+## Habilidades Técnicas
+
+- **Containers e Orquestração**: Docker, Kubernetes
+- **CI/CD**: Jenkins, Ansible
+- **Nuvem**: Azure, AWS
+- **Programação e Scripting**: Python
+- **Infraestrutura como Código (IaC)**: Terraform, Ansible
+- **Monitoramento e Observabilidade**: Prometheus, Grafana, ELK Stack
+- **Gerenciamento de Configuração**: Ansible, Chef, Puppet
+- **Versionamento**: Git, GitHub
 
 ## Como me encontrar
 - **LinkedIn:** [Seu perfil do LinkedIn]([https://www.linkedin.com/seuperfil](https://www.linkedin.com/in/lucasbereta/))
 - **Email:** lucas.bereta@hotmail.com
-
-## Contribuições
-Adoro colaborar em projetos de código aberto. Se você tem algum projeto interessante ou está buscando ajuda em alguma contribuição, não hesite em entrar em contato!
 
 ## Agradecimentos
 Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato se precisar de alguma ajuda ou colaboração.
