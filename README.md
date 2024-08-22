@@ -1,4 +1,4 @@
-# [Lucas S. Bereta]
+# Lucas S. Bereta
 
 ## Sobre Mim
 
