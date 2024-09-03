@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou um profissional com experiência em DevOps, SRE e infraestrutura em nuvem. Minha atuação está focada na automação de processos, manutenção de ambientes escaláveis e implementação de práticas de CI/CD. Tenho uma forte paixão por aprender e implementar novas tecnologias, buscando sempre soluções eficientes e seguras.
+Sou um profissional com experiência em programação Python e DevOps. Minha atuação está focada na automação de processos, manutenção de ambientes escaláveis e implementação de práticas de CI/CD. Tenho uma forte paixão por aprender e implementar novas tecnologias, buscando sempre soluções eficientes e seguras.
 
 ## Habilidades Técnicas
 
